@@ -1,0 +1,19 @@
+{
+  "name": "hangman_cli",
+  "version": "1.0.0",
+  "description": "hangman in a command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshward/hangman_cli.git"
+  },
+  "author": "The Josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshward/hangman_cli/issues"
+  },
+  "homepage": "https://github.com/jshward/hangman_cli#readme"
+}
